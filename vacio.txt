@@ -8,4 +8,6 @@ No es un camino dificil, simplemente es diferente.
 
 no pain, no gain
 
+Estos son los cambios a realizar en la segunda rama del archivo  y por ende las modificaciones que van ha hacer vida en nuestro sitio web.
+
 Eso es todo por el momento 
